@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593810353836",
+    "firebase_url": "https://levelappassignment-9d666.firebaseio.com",
+    "project_id": "levelappassignment-9d666",
+    "storage_bucket": "levelappassignment-9d666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593810353836:android:bc59864358c7bac3bcb909",
+        "android_client_info": {
+          "package_name": "com.example.levelapp_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593810353836-3o83sn0s0qfo2g8fohlij1po5p00hk2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCybsOgxiLMcPR6ro8SOx92DEMPmQq9v04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593810353836-3o83sn0s0qfo2g8fohlij1po5p00hk2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

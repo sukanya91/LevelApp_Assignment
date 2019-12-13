@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LevelApp_Assignment</string>
+    <string name="valuex">X</string>
+    <string name="valuey">Y</string>
+
+    <string name="value_format">%1$.2f</string>
+</resources>
